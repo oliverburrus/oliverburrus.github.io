@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science, 2025 (expected)
 
-Work experience
+Service and leadership
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* College of DuPage ETC Robotics — LIDAR Specialist
+  * 2021-2022
+  * joined the College of DuPage Engineering and Technology Club’s Robotics team to help develop a fully autonomous robot for the 2022 NASA Lunabotics competition. I was tasked with helping implement autonomous driving through LIDAR. 
+* City Nature Challenge — Chicago Metro Coordinator
+  * 2019-2020
+  * The City Nature Challenge worldwide competition between major cities. In 2019 and 2020, I organized the effort in the Chicago region, and had a great turnout.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
+* Special recognition: 3rd Place Autonomy Award, NASA Lunabotics
+  * June 2022
+  * College of DuPage
+  * I was presented with this award for my role in bringing the College of DuPage's NASA Lunabotics robot to successful completion in 2022.
+
+* Young Environmentalist Award
+  * Febuary 2019
+  * Chicago Audubon Society
+  * A biennial award I received in 2019 from the Chicago Audubon Society for my work with Whimbrel Birders Club.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python proficiency
+  * rospy
+  * pandas
+  * scikit-learn
+* R proficiency
+  * tidyverse
